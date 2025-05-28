@@ -39,6 +39,12 @@ Using Conda:
 conda create --name event-admm --file requirements_conda.txt
 conda activate event-admm
 ```
+Create the folders:
+```
+mkdir experiments/data
+mkdir experiments/data/cifar10
+mkdir experiments/data/mnist_data
+```
 
 ## Run the experiments
 ```
