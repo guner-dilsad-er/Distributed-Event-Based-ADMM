@@ -6,7 +6,7 @@ __pycache__
 *.out
 *.log
 *.npy
-*.png
+.png
 *.tex
 wandb/
 # Distribution / packaging 
